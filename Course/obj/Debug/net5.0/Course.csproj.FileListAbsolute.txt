@@ -1,0 +1,16 @@
+D:\C#\Course\Course\bin\Debug\net5.0\Course.exe
+D:\C#\Course\Course\bin\Debug\net5.0\Course.deps.json
+D:\C#\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.json
+D:\C#\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+D:\C#\Course\Course\bin\Debug\net5.0\Course.dll
+D:\C#\Course\Course\bin\Debug\net5.0\ref\Course.dll
+D:\C#\Course\Course\bin\Debug\net5.0\Course.pdb
+D:\C#\Course\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+D:\C#\Course\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Course\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+D:\C#\Course\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+D:\C#\Course\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+D:\C#\Course\Course\obj\Debug\net5.0\Course.dll
+D:\C#\Course\Course\obj\Debug\net5.0\ref\Course.dll
+D:\C#\Course\Course\obj\Debug\net5.0\Course.pdb
+D:\C#\Course\Course\obj\Debug\net5.0\Course.genruntimeconfig.cache
